@@ -14,12 +14,6 @@ All transactions are automatically saved locally in a JSON file so nothing is lo
 -   CSV export functionality
 -   Summary panel showing Income, Expenses, and Balance
 
-## Project Structure
-
-    finance_tracker.py
-    ~/.personal_finance_data.json
-    screenshots/
-
 ## How to Run
 
 1.  Install Python 3.10+
